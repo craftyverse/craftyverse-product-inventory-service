@@ -1,0 +1,1 @@
+# craftyverse-product-inventory-service
